@@ -57,8 +57,8 @@ Lending Club 데이터 기반 부도예측 + IRR 수익률 시뮬레이션
 ---
 
 ## 📫 Contact
-📧 somlee@snu.ac.kr  
-💼 [LinkedIn](https://www.linkedin.com) | 🧑‍💻 [GitHub](https://github.com/somlee)
+📧 somlee1000@gmail.com
+🧑‍💻 [GitHub](https://github.com/somlee)
 
 ---
 
